@@ -12,7 +12,7 @@ name = "Our Methodology"
 url = "methodology"
 [[footer_middle]]
 name = "Platform"
-url = "#"
+url = "platform"
 [[footer_middle]]
 name = "Features"
 url = "#"
