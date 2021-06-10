@@ -5,8 +5,8 @@ url = "#"
 name = "Contact Us"
 url = "contact"
 [[footer_left]]
-name = "Services"
-url = "services"
+name = "Careers"
+url = "careers"
 [[footer_middle]]
 name = "Our Methodology"
 url = "methodology"
