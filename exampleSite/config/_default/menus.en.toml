@@ -34,8 +34,8 @@ name = "Insights"
 url = "insights"
 weight = 2
 [[main]]
-name = "Pricing"
-url = "pricing"
+name = "How We Help"
+url = "how-we-help"
 weight = 3
 [[main]]
 name = "Contact"
