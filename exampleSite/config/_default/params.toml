@@ -1,7 +1,7 @@
 author = "Themefisher"
 contact_form_action = "#"
 description = "Digital Product Partner"
-logo = "images/logo.png"
+logo = "images/df-logo-indigo.png"
 logo_width = "200px"
 [navigation_button]
 enable = true
