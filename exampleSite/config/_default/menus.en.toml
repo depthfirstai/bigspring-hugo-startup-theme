@@ -8,8 +8,8 @@ url = "contact"
 name = "Services"
 url = "services"
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Our Methodology"
+url = "methodology"
 [[footer_middle]]
 name = "Platform"
 url = "#"
