@@ -14,8 +14,8 @@ url = "methodology"
 name = "Platform"
 url = "platform"
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "Services"
+url = "services"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
