@@ -13,13 +13,13 @@ sections:
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
 - type: heading
-  label: Blog
+  label: Insights
 - type: document
   path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
+  label: Insights Page (en)
 - type: document
   path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog Page (de)
+  label: Insights Page (de)
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog Post (en)
