@@ -17,14 +17,14 @@ feature:
   - name: Product Strategy
     icon: fas fa-project-diagram
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: Project Management
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
-    icon: fas fa-user-clock
+  - name: Partner Discovery
+    icon: fal fa-radar
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
+  - name: User Experience
+    icon: fal fa-id-badge
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: fas fa-tachometer-alt
