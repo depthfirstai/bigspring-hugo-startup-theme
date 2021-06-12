@@ -3,8 +3,6 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.js]]
-link = ""
-[[params.plugins.js]]
 link = "https://js-na1.hs-scripts.com/9297393.js"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
