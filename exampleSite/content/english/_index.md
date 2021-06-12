@@ -16,16 +16,24 @@ feature:
   feature_item:
   - name: Product Strategy
     icon: fas fa-project-diagram
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Let us drive your vision with our expertise in managing product development.
+      With cutting-edge technology skills and agile execution, our product engineers
+      share joint responsibility towards the final goal and help you deliver products
+      which customers love.
   - name: Project Management
     icon: fas fa-project-diagram
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: When you want to explore new ideas, our team of experts not only give
+      you insights and advisory but also a clear scope of work and estimates. We go
+      even further to help you find the right partner to make things happen.
   - name: Partner Discovery
     icon: fas fa-search
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: User Experience
+    content: DepthFirst provides a comprehensive list of service providers with reliable
+      reviews and a competency grid to match your requirements.
+  - name: Research
     icon: fas fa-id-badge
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We go depth first into data and research. We define business goals and
+      audience segments based on your requirements to come up with a clear product
+      strategy and key success metrics.
   - name: Digital Transformation
     icon: fas fa-cogs
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
