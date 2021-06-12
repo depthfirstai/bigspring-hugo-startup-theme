@@ -15,7 +15,7 @@ feature:
   title: One Trusted Platform
   feature_item:
   - name: Product Strategy
-    icon: fas fa-project-diagram
+    icon: fas fa-bullseye
     content: Let us drive your vision with our expertise in managing product development.
       With cutting-edge technology skills and agile execution, our product engineers
       share joint responsibility towards the final goal and help you deliver products
@@ -30,7 +30,7 @@ feature:
     content: DepthFirst provides a comprehensive list of service providers with reliable
       reviews and a competency grid to match your requirements.
   - name: Research
-    icon: fas fa-id-badge
+    icon: fas fa-users-cog
     content: We go depth first into data and research. We define business goals and
       audience segments based on your requirements to come up with a clear product
       strategy and key success metrics.
@@ -38,7 +38,7 @@ feature:
     icon: fas fa-cogs
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Data Analytics
-    icon: fas fa-analytics
+    icon: fas fa-chart-bar
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
