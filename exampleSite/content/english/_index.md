@@ -1,10 +1,11 @@
 ---
 banner:
-  title: Hello, let us solve your critical website <br> development challenges
+  title: Digital Product Partner
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: |-
+    From research to execution, DepthFirst translates your vision into products that customers love. DepthFirst offers consulting services in product strategy, project management, user experience, and data analytics. In addition, our platform helps you choose from a wide variety of talented teams to bring brilliant ideas into being.
+
+    We work closely with our clients at any point in their business journey to achieve impactful and results-driven digital product development.
   button:
     enable: true
     label: Contact With Us
