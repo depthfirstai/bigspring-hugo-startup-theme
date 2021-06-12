@@ -41,7 +41,3 @@ weight = 2
 name = "FAQ"
 url = "faq"
 weight = 5
-[[main]]
-name = "Contact"
-url = "contact"
-weight = 4
