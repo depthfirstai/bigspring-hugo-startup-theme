@@ -46,8 +46,6 @@ service:
   - title: End to End Service
     images:
     - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
     content: From idea to implementation, our complete product development approach
       means convenience and less risk.
     button:
