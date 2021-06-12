@@ -26,11 +26,11 @@ feature:
   - name: User Experience
     icon: fal fa-id-badge
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
+  - name: Digital Transformation
+    icon: fal fa-cogs
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
+  - name: Data Analytics
+    icon: fal fa-analytics
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
