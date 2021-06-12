@@ -8,8 +8,8 @@ banner:
     We work closely with our clients at any point in their business journey to achieve impactful and results-driven digital product development.
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Chat With Us
+    link: https://api.whatsapp.com/send/?phone=919811282747&text=Hi,%20I%20wanted%20to%20enquire%20about%20&app_absent=0
 feature:
   enable: true
   title: Something You Need To Know
