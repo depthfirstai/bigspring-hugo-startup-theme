@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Chat With Us
-    link: https://api.whatsapp.com/send/?phone=919811282747&text=Hi,%20I%20wanted%20to%20enquire%20about%20&app_absent=0
+    link: "#hs-chat-open"
 feature:
   enable: true
   title: One Trusted Platform
