@@ -16,10 +16,9 @@ feature:
   feature_item:
   - name: Product Strategy
     icon: fas fa-bullseye
-    content: Let us drive your vision with our expertise in managing product development.
-      With cutting-edge technology skills and agile execution, our product engineers
-      share joint responsibility towards the final goal and help you deliver products
-      which customers love.
+    content: With cutting-edge technology skills and agile execution, our product
+      engineers share joint responsibility towards the final goal and help you deliver
+      products which customers love.
   - name: Project Management
     icon: fas fa-project-diagram
     content: When you want to explore new ideas, our team of experts not only give
