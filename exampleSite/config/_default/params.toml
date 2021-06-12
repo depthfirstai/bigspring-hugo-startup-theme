@@ -5,8 +5,8 @@ logo = "images/df-logo-indigo.png"
 logo_width = "160px"
 [navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "Chat With Us"
+link = "https://wa.me/919811282747"
 [preloader]
 enable = false
 preloader = ""
