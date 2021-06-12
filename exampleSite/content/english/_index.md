@@ -1,7 +1,7 @@
 ---
 banner:
   title: Digital Product Partner
-  image: images/banner-art.svg
+  image: images/df-home-banner.jpg
   content: |-
     From research to execution, DepthFirst translates your vision into products that customers love. DepthFirst offers consulting services in product strategy, project management, user experience, and data analytics. In addition, our platform helps you choose from a wide variety of talented teams to bring brilliant ideas into being.
 
