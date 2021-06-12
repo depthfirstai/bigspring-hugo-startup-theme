@@ -8,7 +8,7 @@ enable = true
 label = "Chat With Us"
 link = "#hs-chat-open"
 [preloader]
-enable = true
+enable = false
 preloader = "Depth First will attend you in a moment..."
 [[social]]
 icon = "fab fa-facebook"
