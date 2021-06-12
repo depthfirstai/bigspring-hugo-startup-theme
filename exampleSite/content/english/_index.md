@@ -18,19 +18,19 @@ feature:
     icon: fas fa-project-diagram
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Project Management
-    icon: fas fa-object-group
+    icon: fas fa-project-diagram
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Partner Discovery
-    icon: fal fa-radar
+    icon: fas fa-search
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: User Experience
-    icon: fal fa-id-badge
+    icon: fas fa-id-badge
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Digital Transformation
-    icon: fal fa-cogs
+    icon: fas fa-cogs
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Data Analytics
-    icon: fal fa-analytics
+    icon: fas fa-analytics
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
