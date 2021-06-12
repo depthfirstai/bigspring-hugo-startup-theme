@@ -44,7 +44,7 @@ service:
   service_item:
   - title: End to End Service
     images:
-    - images/service-1.png
+    - images/df-project-1.jpg
     content: From idea to implementation, our complete product development approach
       means convenience and less risk.
     button:
