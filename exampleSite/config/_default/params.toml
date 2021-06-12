@@ -1,15 +1,15 @@
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "#hs-chat-open"
 description = "Digital Product Partner"
 logo = "images/df-logo-indigo.png"
 logo_width = "160px"
 [navigation_button]
 enable = true
 label = "Chat With Us"
-link = "https://wa.me/919811282747"
+link = "#hs-chat-open"
 [preloader]
-enable = false
-preloader = ""
+enable = true
+preloader = "Depth First will attend you in a moment..."
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
