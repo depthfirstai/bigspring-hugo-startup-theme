@@ -35,10 +35,12 @@ feature:
       strategy and key success metrics.
   - name: Digital Transformation
     icon: fas fa-cogs
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We help corporates and startup innovators bring scalable technologies
+      and solutions to their customers in an optimized cost and time.
   - name: Data Analytics
     icon: fas fa-chart-bar
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Our team of Data Scientists bring the insights that matter most for your
+      business.
 service:
   enable: true
   service_item:
