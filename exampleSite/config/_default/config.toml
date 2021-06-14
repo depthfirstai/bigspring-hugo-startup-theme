@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Depth First"
+title = "DepthFirst"
 [markup.goldmark.renderer]
 unsafe = true
