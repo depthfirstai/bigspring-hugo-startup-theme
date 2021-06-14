@@ -8,8 +8,8 @@ enable = true
 label = "Chat With Us"
 link = "#hs-chat-open"
 [preloader]
-enable = false
-preloader = "Depth First will attend you in a moment..."
+enable = true
+preloader = "/preloader.svg"
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
