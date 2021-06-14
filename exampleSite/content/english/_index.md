@@ -78,7 +78,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
+  image: images/df-cta-1.jpg
   content: We are committed to partner with you. Help us understand your requirements
     and we deliver a clear plan of action and technical roadmap for you.
   button:
