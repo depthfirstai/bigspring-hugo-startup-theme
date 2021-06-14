@@ -22,8 +22,7 @@ feature:
   - name: Project Management
     icon: fas fa-project-diagram
     content: When you want to explore new ideas, our team of experts not only give
-      you insights and advisory but also a clear scope of work and estimates. We go
-      even further to help you find the right partner to make things happen.
+      you insights and advisory but also a clear scope of work and estimates.
   - name: Partner Discovery
     icon: fas fa-search
     content: DepthFirst provides a comprehensive list of service providers with reliable
