@@ -16,7 +16,7 @@ link = "#"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/depthfirstai"
 title = "twitter"
 [[social]]
 icon = "fab fa-whatsapp"
