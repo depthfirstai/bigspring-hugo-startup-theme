@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 subtitle: ''
-description: This is meta description
+description: Terms of Service
 
 ---
 ### 1. Terms
