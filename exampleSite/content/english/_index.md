@@ -22,8 +22,7 @@ feature:
   - name: Project Management
     icon: fas fa-project-diagram
     content: When you want to explore new ideas, our team of experts not only give
-      you insights and advisory but also a clear scope of work and estimates. We go
-      even further to help you find the right partner to make things happen.
+      you insights and advisory but also a clear scope of work and estimates.
   - name: Partner Discovery
     icon: fas fa-search
     content: DepthFirst provides a comprehensive list of service providers with reliable
@@ -50,7 +49,7 @@ service:
     content: From idea to implementation, our complete product development approach
       means convenience and less risk.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Depth-First Research
@@ -59,7 +58,7 @@ service:
     content: We not only focus on visuals but also on the purpose and effectiveness
       of each design element.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: S3 Engineering
@@ -68,7 +67,7 @@ service:
     content: Stable, Secure, and Scalable. These are our key quality metrics for our
       engineering teams.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
