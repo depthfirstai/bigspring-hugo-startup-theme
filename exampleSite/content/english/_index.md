@@ -64,7 +64,7 @@ service:
       link: "#"
   - title: S3 Engineering
     images:
-    - images/service-2.png
+    - images/df-feature-3.jpg
     content: Stable, Secure, and Scalable. These are our key quality metrics for our
       engineering teams.
     button:
