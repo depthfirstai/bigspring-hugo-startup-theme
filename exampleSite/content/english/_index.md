@@ -50,7 +50,7 @@ service:
     content: From idea to implementation, our complete product development approach
       means convenience and less risk.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Depth-First Research
@@ -59,7 +59,7 @@ service:
     content: We not only focus on visuals but also on the purpose and effectiveness
       of each design element.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: S3 Engineering
@@ -68,7 +68,7 @@ service:
     content: Stable, Secure, and Scalable. These are our key quality metrics for our
       engineering teams.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
