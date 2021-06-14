@@ -55,7 +55,7 @@ service:
       link: "#"
   - title: Depth-First Research
     images:
-    - images/service-1.png
+    - images/df-feature-2.jpg
     content: We not only focus on visuals but also on the purpose and effectiveness
       of each design element.
     button:
