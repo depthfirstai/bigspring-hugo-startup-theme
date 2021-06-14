@@ -35,7 +35,7 @@ url = "how-we-help"
 weight = 3
 [[main]]
 name = "Insights"
-url = "insights"
+url = "blog"
 weight = 2
 [[main]]
 name = "FAQ"
