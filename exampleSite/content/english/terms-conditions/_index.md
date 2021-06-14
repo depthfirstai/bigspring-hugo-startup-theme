@@ -33,7 +33,7 @@ The materials appearing on _DepthFirst's_ website could include technical, typog
 
 ### 6. Links
 
-1. _DepthFirst_ has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by _DepthFirst_ of the site. Use of any such linked website is at the user’s own risk.
+_DepthFirst_ has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by _DepthFirst_ of the site. Use of any such linked website is at the user’s own risk.
 
 ### 7. Modifications
 
