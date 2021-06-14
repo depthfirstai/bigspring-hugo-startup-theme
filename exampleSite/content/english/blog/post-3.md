@@ -2,8 +2,8 @@
 title: Checklist for Handing Off A Software Project
 date: 2021-06-14T09:00:21+05:30
 image: "/images/20943438.jpg"
-type: regular
-description: Minimum Technical Documentation a
+type: featured
+description: Checklist for Handing Off A Software Project
 
 ---
 > Good code is its own best documentation. - Steve McConnell
