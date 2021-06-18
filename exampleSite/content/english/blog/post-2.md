@@ -1,166 +1,55 @@
 ---
-title: Pump-up the team morale and celebrate the excellence.
-date: 2020-04-18T10:07:21.000+06:00
-image: images/blog/post-2.jpg
+title: How to pick the right vendor for your business
+date: 2020-06-19T17:00:21+05:30
+image: "/images/manager-checklist.png"
 type: regular
-description: This is meta description
+description: How to pick the right vendor for your business
 
 ---
-#### Heading example
+Selecting a vendor is probably one of the most nerve-wracking but crucial activities a business must undertake. When you are selecting a potential vendor, you are selecting a partner in your business and you will trust them to work with you in a professional and profitable manner. It is important that you choose a company that can supply your requirements now and in the near future.
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Here are a few useful tips to select the vendor that suits best your requirement but before going forward the most important thing for any business is to analyze their Business requirement. You have to define the business and technical requirements along with the fund's availability you can offer to your vendor. And then you can go for the vendor selection by considering these tips
 
-# Heading 1 
-<br>
+### Experience in Business
 
-## Heading 2 
+You need to know that the company is established and in business for several years. Get information about some of their successful business deliveries. Are they ready to serve your requirements? If yes, then proceed to next step.
 
-<br>
+### Consistency
 
-### Heading 3 
+You need your products and services on a regular basis. A vendor that has supply issues will affect your ability to supply your customers. This will eliminate a number of immature and inconsistent vendors. Of course, you can take chances if the project is not very critical and 
 
-<br>
+### One stop solution
 
-#### Heading 4 
+This is particularly necessary when you are looking for one vendor who can serve all your needs under one roof. You may also be attempting to rationalize the number of vendors you are currently dealing with. This may also help you to cut down the cost of managing different vendors at the same time.
 
-<br>
+### Flexibility
 
-##### Heading 5 
+All businesses need to change their orders sometimes – if your vendor heavily penalizes you for doing this – perhaps they are not the one for you and you need to move on with selecting another vendor.
 
-<br>
+### Spectrum of product/services
 
-###### Heading 6
+This not only indicates the size of products and services provided by the vendor but also means that you have flexibility in your requirement. As your business grows, you can keep with the same vendor. It also indicates that vendor is well established in size.
 
+### Technical Expertise
 
-<hr>
+Availability of a technical expert is very pertinent if you are purchasing a high-value service as we all need experts at some time or other.
 
-##### Emphasis
+### Prices
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Discounts on the price list are always negotiable, but they are an important part of selecting a vendor.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+### Delivery Timeline
 
-Combined emphasis with **asterisks and _underscores_**.
+You need to ensure that deliveries can be made at any place and time, as per your requirement. The number of deliveries per week or month may also be important to you, so you can place your schedule at the beginning of the month to avoid any negligence.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+### Payment Terms
 
-<hr>
+Payment terms are particularly important as they impact your cash flow. You can fix your payment terms and also keep it flexible as per the need.
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+### Customer Services
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+This one probably the last point but equally important as others, As every
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Business needs vendors who focus on customer success and assist you at critical times. Their response to customer queries and providing solutions to the issues play an important role in finalizing Vendor.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+As you can see there a considerable amount of criteria to consider when selecting a vendor as it is an important undertaking that will make a considerable impact on the success of your business.
