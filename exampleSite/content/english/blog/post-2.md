@@ -28,7 +28,7 @@ All businesses need to change their orders sometimes – if your vendor heavily 
 
 ### Spectrum of product/services
 
-This not only indicates the size of products and services provided by the vendor but also means that you have flexibility in your requirement. As your business grows, you can keep with the same vendor. It also indicates that vendor is well established in size.
+This not only indicates the size of products and services provided by the vendor but also means that you have flexibility in your requirement. As your business grows, you can keep with the same vendor. It also indicates that the vendor is well established in size.
 
 ### Technical Expertise
 
