@@ -18,7 +18,7 @@ You need to know that the company is established and in business for several yea
 
 You need your products and services on a regular basis. A vendor that has supply issues will affect your ability to supply your customers. This will eliminate a number of immature and inconsistent vendors. Of course, you can take chances if the project is not very critical and 
 
-### One stop solution
+### One-stop solution
 
 This is particularly necessary when you are looking for one vendor who can serve all your needs under one roof. You may also be attempting to rationalize the number of vendors you are currently dealing with. This may also help you to cut down the cost of managing different vendors at the same time.
 
