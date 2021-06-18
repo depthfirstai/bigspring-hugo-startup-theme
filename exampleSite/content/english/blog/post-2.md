@@ -2,7 +2,7 @@
 title: How to pick the right vendor for your business
 date: 2020-06-19T17:00:21+05:30
 image: "/images/manager-checklist.png"
-type: regular
+type: featured
 description: How to pick the right vendor for your business
 
 ---
