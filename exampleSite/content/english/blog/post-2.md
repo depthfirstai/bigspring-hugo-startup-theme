@@ -18,7 +18,7 @@ You need to know that the company is established and in business for several yea
 
 You need your products and services on a regular basis. A vendor that has supply issues will affect your ability to supply your customers. This will eliminate a number of immature and inconsistent vendors. Of course, you can take chances if the project is not very critical and 
 
-### One-stop solution
+### One-stop Solution
 
 This is particularly necessary when you are looking for one vendor who can serve all your needs under one roof. You may also be attempting to rationalize the number of vendors you are currently dealing with. This may also help you to cut down the cost of managing different vendors at the same time.
 
@@ -26,13 +26,13 @@ This is particularly necessary when you are looking for one vendor who can serve
 
 All businesses need to change their orders sometimes – if your vendor heavily penalizes you for doing this – perhaps they are not the one for you and you need to move on with selecting another vendor.
 
-### Spectrum of product/services
+### A Spectrum of Product/Services
 
 This not only indicates the size of products and services provided by the vendor but also means that you have flexibility in your requirement. As your business grows, you can keep with the same vendor. It also indicates that the vendor is well established in size.
 
 ### Technical Expertise
 
-Availability of a technical expert is very pertinent if you are purchasing a high-value service as we all need experts at some time or other.
+The availability of a technical expert is very pertinent if you are purchasing a high-value service as we all need experts at some time or other.
 
 ### Prices
 
@@ -48,8 +48,6 @@ Payment terms are particularly important as they impact your cash flow. You can 
 
 ### Customer Services
 
-This one probably the last point but equally important as others, As every
-
-Business needs vendors who focus on customer success and assist you at critical times. Their response to customer queries and providing solutions to the issues play an important role in finalizing Vendor.
+This one probably the last point but equally important as others. Every business needs vendors who focus on customer success and assist you at critical times. Their response to customer queries and providing solutions to the issues play an important role in finalizing the vendor.
 
 As you can see there a considerable amount of criteria to consider when selecting a vendor as it is an important undertaking that will make a considerable impact on the success of your business.
