@@ -12,7 +12,7 @@ Here are a few useful tips to select the vendor that suits best your requirement
 
 ### Experience in Business
 
-You need to know that the company is established and in business for several years. Get information about some of their successful business deliveries. Are they ready to serve your requirements? If yes, then proceed to next step.
+You need to know that the company is established and in business for several years. Get information about some of their successful business deliveries. Are they ready to serve your requirements? If yes, then proceed to the next step.
 
 ### Consistency
 
