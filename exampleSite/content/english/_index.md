@@ -7,7 +7,7 @@ banner:
 
     We work closely with our clients at any point in their business journey to achieve impactful and results-driven digital product development.
   button:
-    enable: false
+    enable: true
     label: Chat With Us
     link: "#hs-chat-open"
 feature:
