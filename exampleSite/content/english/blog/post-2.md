@@ -4,6 +4,7 @@ date: 2020-06-19T17:00:21+05:30
 image: ''
 type: featured
 description: How to pick the right vendor for your business
+tags: ["Project Management"]
 
 ---
 ![](/images/manager-checklist-1.png)

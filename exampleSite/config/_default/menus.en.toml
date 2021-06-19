@@ -1,39 +1,55 @@
-[[footer_left]]
-name = "About Us"
-url = "#"
-[[footer_left]]
-name = "Contact Us"
-url = "contact"
-[[footer_left]]
-name = "Join Us"
-url = "careers"
-[[footer_middle]]
-name = "Our Methodology"
-url = "methodology"
-[[footer_middle]]
-name = "Platform"
-url = "platform"
-[[footer_middle]]
-name = "Services"
-url = "services"
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-[[footer_right]]
-name = "FAQ"
-url = "faq"
 [[main]]
 name = "Home"
 url = "/"
 weight = 1
+
+[[main]]
+name = "How We Help"
+url = "service"
+weight = 2
+
 [[main]]
 name = "Insights"
 url = "blog"
-weight = 2
+weight = 3
+
 [[main]]
 name = "FAQ"
 url = "faq"
-weight = 5
+weight = 4
+
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+[[footer_left]]
+name = "Contact Us"
+url = "contact"
+
+[[footer_left]]
+name = "Join Us"
+url = "careers"
+
+[[footer_middle]]
+name = "Our Methodology"
+url = "methodology"
+
+[[footer_middle]]
+name = "Platform"
+url = "platform"
+
+[[footer_middle]]
+name = "Services"
+url = "services"
+
+[[footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+
+[[footer_right]]
+name = "FAQ"
+url = "faq"
