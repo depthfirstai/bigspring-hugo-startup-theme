@@ -1,14 +1,13 @@
 ---
 title: How to pick the right vendor for your business
-date: 2020-06-19T17:00:21+05:30
-image: ''
+date: 2020-06-19T17:00:21.000+05:30
+image: "/images/manager-checklist-1.png"
 type: featured
 description: How to pick the right vendor for your business
-tags: ["Project Management"]
+tags:
+- Project Management
 
 ---
-![](/images/manager-checklist-1.png)
-
 Selecting a vendor is probably one of the most nerve-wracking but crucial activities a business must undertake. When you are selecting a potential vendor, you are selecting a partner in your business and you will trust them to work with you in a professional and profitable manner. It is important that you choose a company that can supply your requirements now and in the near future.
 
 Here are a few useful tips to select the vendor that suits best your requirement but before going forward the most important thing for any business is to analyze their Business requirement. You have to define the business and technical requirements along with the fund's availability you can offer to your vendor. And then you can go for the vendor selection by considering these tips
@@ -19,7 +18,7 @@ You need to know that the company is established and in business for several yea
 
 ### Consistency
 
-You need your products and services on a regular basis. A vendor that has supply issues will affect your ability to supply your customers. This will eliminate a number of immature and inconsistent vendors. Of course, you can take chances if the project is not very critical and 
+You need your products and services on a regular basis. A vendor that has supply issues will affect your ability to supply your customers. This will eliminate a number of immature and inconsistent vendors. Of course, you can take chances if the project is not very critical and
 
 ### One-stop Solution
 
